@@ -1,1 +1,1 @@
-this is readme.md
+this is judy's testrepo for applied data science 
